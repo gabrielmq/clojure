@@ -1,0 +1,1 @@
+Os projetos financeiro e conversor foram desenvolvidos durante a leitura do livro _Programação Funcional: Uma introdução em Clojure_
